@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Popy - Part-time grad-student, full-time overthinker!
 
 <!--
 **Popy-17/Popy-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
